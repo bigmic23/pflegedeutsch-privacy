@@ -37,7 +37,9 @@ Users may stop using the bot at any time. Stored learning records may be removed
 
 ### Contact
 
-For questions regarding this Privacy Policy, please contact the administrator through Telegram.
+Pflegedeutsch is developed and operated by BigMic EduTech.
+
+For questions regarding this Privacy Policy, please contact BigMic EduTech through Telegram.
 
 ---
 
